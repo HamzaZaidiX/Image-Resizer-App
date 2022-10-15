@@ -44,9 +44,10 @@ npx electronmon .
  
  ## Screenshots:
  
-![ss3](https://user-images.githubusercontent.com/52501040/195849449-077101dc-fb6d-4b9c-88bc-96496c0d69e3.PNG)
-![ss2](https://user-images.githubusercontent.com/52501040/195849459-885478d2-2143-4113-b23e-c8f2c76081bf.PNG)
-![ss](https://user-images.githubusercontent.com/52501040/195849462-4b03af93-3257-4276-90c0-f597746bb804.PNG)
+<img src="https://user-images.githubusercontent.com/52501040/195849449-077101dc-fb6d-4b9c-88bc-96496c0d69e3.PNG" alt="ss" width="500" height="500"/>
+<img src="https://user-images.githubusercontent.com/52501040/195849459-885478d2-2143-4113-b23e-c8f2c76081bf.PNG" alt="ss" width="500" height="500"/>
+<img src="https://user-images.githubusercontent.com/52501040/195849462-4b03af93-3257-4276-90c0-f597746bb804.PNG" alt="ss" width="500" height="500"/>
+<img src="https://webninjadeveloper.com/wp-content/uploads/2022/10/Screenshot_555.png" alt="screenshot"  width="500" height="500" />
 
 ## 📖 Licence
 **`MIT LICENCE` Read Licence document for more details ->**
