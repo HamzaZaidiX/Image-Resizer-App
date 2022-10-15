@@ -1,8 +1,12 @@
 # Image Resizer Desktop App
 
-**Image Resizer Desktop App built with `Node JS` Using `Electron JS` Framework & `Toastify` Library**
+**Image Resizer Desktop App which amazing tool for everyone to use in their daily life to use this tool as a desktop OFFLINE App which can easily Resize any good format image into Desired Size image but if you give it wrong format then it has Validation built-in functionality which sees that if you have wrong or correct format image uploaded or image will simply give you colorful Alert Messages for confirmation and downloads your iamge automatically in a Images Folder.**
 
-## Get Started: 
+## Introduction: 
+
+**Image Resizer Desktop App whichbuilt with `Node JS` Using [`Electron JS`](https://www.electronjs.org/) Framework & [`Toastify`](https://www.npmjs.com/package/toastify-js) Library**
+
+## Resourses Used: 
 
 - **[`Electron JS`](https://www.electronjs.org/): It is an open source framework used in node.js for developing desktop apps with the use of HTML5 CSS3 and Javascript.**
 
