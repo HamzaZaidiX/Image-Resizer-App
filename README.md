@@ -1,8 +1,6 @@
-# Image Resizer Desktop App
+# <img align="center" src="https://user-images.githubusercontent.com/52501040/207794272-c3c3bb93-b933-459f-928c-9de8877cb3e5.png" width="50px" height="50px" /> Image Resizer Desktop App
 
-**`Image Resizer Desktop App` which Amazing tool for Everyone to use in their daily life for Free to use this tool as a desktop `OFFLINE App` which can easily `Resize any Good format Image` into `Desired Size Image` but if you give it wrong format then it has `Validation Built-in Functionality` which sees that if you have `Wrong or Correct Format Image` uploaded or `App will simply give you Colorful Alert Messages` for Confirmation and `Downloads your Image` automatically in a new Images Folder.**
-
-<img align="center" src="https://user-images.githubusercontent.com/52501040/207794272-c3c3bb93-b933-459f-928c-9de8877cb3e5.png" width="50px" height="50px" />
+**`Image Resizer Desktop App` which Amazing tool for Everyone to use in their daily life for Free to use this Tool as a `Desktop OFFLINE App` which can easily `Resize any Good format Image` into `Desired Size Image` but if you give it wrong format then it has `Validation Built-in Functionality` which sees that if you have `Wrong or Correct Format Image` uploaded or `App will simply give you Colorful Alert Messages` for Confirmation and `Downloads your Image` automatically in a new Images Folder.**
 
 ## Introduction: 
 
@@ -10,9 +8,9 @@
 
 ## Materials Used: 
 
-- **[`Electron JS`](https://www.electronjs.org/): It is an open source framework used in node.js for developing desktop apps with the use of HTML5 CSS3 and Javascript.**
+- **[`Electron JS`](https://www.electronjs.org/): It is an open source framework used in Node.js for developing Desktop Apps with the use of HTML5 CSS3 and Javascript.**
 
-- **[`Toastify`](https://www.npmjs.com/package/toastify-js): This is a alert library where we can show colorful toast alert messages to the user**
+- **[`Toastify`](https://www.npmjs.com/package/toastify-js): This is a Alert Library where we can show Colorful Toast Alert Messages to the user**
 
 ## Installation:
 
